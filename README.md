@@ -1,6 +1,6 @@
 # Industrial Machine Anomaly Detection
 
-Detecting system failures in industrial machines using unsupervised machine learning and deep learning models on real-world temperature sensor data.
+Detecting system failures in industrial machines using statistical and unsupervised machine learning models on real-world temperature sensor data.
 
 ---
 
