@@ -48,6 +48,7 @@ This project uses the **Numenta Anomaly Benchmark (NAB)** dataset — specifical
 ![Model_Comparison](images/model_comparison.png)
 
 ![Model_Comparison](images/comparison_chart.png)
+
 ---
 
 ## 🛠️ How to Run
@@ -63,7 +64,9 @@ This project uses the **Numenta Anomaly Benchmark (NAB)** dataset — specifical
     https://www.kaggle.com/datasets/boltzmannbrain/nab?resource=download
     ```
 
-3. Run the notebook.
+3. Run the notebook (here, Google Colab is used).
+
+---
 
 ## 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
