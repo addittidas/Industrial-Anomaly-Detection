@@ -26,7 +26,7 @@ This project uses the **Numenta Anomaly Benchmark (NAB)** dataset — specifical
 
 ## Methodology
 
-![Methodology](images\methodology.png)
+![Methodology](images/methodology.png)
 
 ---
 
