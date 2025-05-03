@@ -24,6 +24,12 @@ This project uses the **Numenta Anomaly Benchmark (NAB)** dataset — specifical
 
 ---
 
+## Methodology
+
+![Methodology](images\methodology.png)
+
+---
+
 ## 🤖 Models Used
 
 | **Model**                   | **Purpose**                                                                 | **Strength**                                                                 |
@@ -43,11 +49,20 @@ This project uses the **Numenta Anomaly Benchmark (NAB)** dataset — specifical
 
 ---
 
-## 📁 File Structure
+## 🛠️ How to Run
 
-```bash
-├── imfeature.ipynb                 # Main Jupyter notebook with full pipeline
-├── requirements.txt                # Python dependencies
-├── README.md                       # Project overview and instructions
-└── /data
-    └── machine_temperature_system_failure.csv  # Dataset file
+1. Clone the repo:
+    ```bash
+    https://github.com/addittidas/Industrial-Anomaly-Detection.git
+    cd Industrial-Anomaly-Detection
+    ```
+
+2. Download dataset from Kaggle:
+    ```bash
+    https://www.kaggle.com/datasets/boltzmannbrain/nab?resource=download
+    ```
+
+3. Run the notebook.
+
+## 📜 License
+This project is licensed under the MIT License - see the LICENSE file for details.
